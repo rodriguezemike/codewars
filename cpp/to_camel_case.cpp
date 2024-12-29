@@ -1,3 +1,5 @@
+//https://www.codewars.com/kata/517abf86da9663f1d2000003/cpp
+
 std::string to_camel_case(std::string text) {
   std::string result = "";
   for (int i=0; i < int(text.size()); ++i){
